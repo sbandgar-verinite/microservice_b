@@ -1,4 +1,4 @@
 # microservice_b
 Rebase functionality
 
-Third commit
+Third commit - with message
